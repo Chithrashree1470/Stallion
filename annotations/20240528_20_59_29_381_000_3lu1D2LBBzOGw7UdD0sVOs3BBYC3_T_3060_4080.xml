@@ -1,0 +1,33 @@
+<annotation>
+  <folder>20240528</folder>
+  <filename>20240528_20_59_29_381_000_3lu1D2LBBzOGw7UdD0sVOs3BBYC3_T_3060_4080.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>4080</width>
+    <height>3060</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>sofa</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>730.32</xmin>
+      <ymin>450.64</ymin>
+      <xmax>3746.45</xmax>
+      <ymax>2545.5</ymax>
+    </bndbox>
+    <attributes>
+      <attribute>
+        <name>rotation</name>
+        <value>0.0</value>
+      </attribute>
+    </attributes>
+  </object>
+</annotation>
